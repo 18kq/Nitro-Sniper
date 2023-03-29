@@ -6,10 +6,15 @@
 # Features
 
 び Nitro, autogen
+
 び (p.s. Snipes Nitros in less than 30 mins
+
 び fast, quick and efficient
+
 び Customizable delay for giveaway joiner
+
 び Dm me if it dont snipe because it has auto gen nitro codes (boy wonder#0001).
+
 あ Status changer for main account & alternate accounts
 
 
