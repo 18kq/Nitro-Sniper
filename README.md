@@ -15,6 +15,6 @@
 
 
 ## Preview
-![Image](https://cdn.discordapp.com/attachments/1085466365105815644/1090540927979888670/IMG_3979.png)
+![Image](https://media.discordapp.net/attachments/1085466365105815644/1090541398933110784/E5A81618-1859-4E5B-AF59-ACA1602053D3.jpg?width=294&height=473)
 
                                   
