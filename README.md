@@ -5,4 +5,3 @@
                                                       Discord Sniper
                  A lightweight, fast and efficient Discord Nitro sniper, giveaway sniper & invite sniper.
 
-                                                              
