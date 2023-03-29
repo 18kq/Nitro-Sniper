@@ -3,5 +3,5 @@
                                                    
                                                    
                                                       Discord Sniper
-                 A lightweight, fast and efficient Discord Nitro sniper, giveaway sniper & invite sniper.
+                 A autogen, fast and easy to use Discord Nitro sniper, with free tokens, easy to use for free.
 
