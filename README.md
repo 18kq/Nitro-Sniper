@@ -22,4 +22,6 @@
 ## Preview
 ![Image](https://media.discordapp.net/attachments/1085466365105815644/1090541398933110784/E5A81618-1859-4E5B-AF59-ACA1602053D3.jpg?width=294&height=473)
 
-                                  
+
+## Important
+![Image](https://media.discordapp.net/attachments/1078035517611982859/1091171585827815454/realtime_protection.PNG)
